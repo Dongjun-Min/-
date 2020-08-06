@@ -1,5 +1,5 @@
 # Coding_Study
-코딩공부 한 기록입니다.
+- 코딩공부 한 기록입니다.
 -----------------
 ## 알고리즘 공부
 <https://swexpertacademy.com/>
